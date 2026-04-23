@@ -10,4 +10,4 @@ It can handle multiple operations in an expression and does basic order of opera
 The number of operations is very limited. Output can overflow from the box and appear outside of the calculator.
 
 ## Screenshot
-<img width="3542" height="1968" alt="image" src="https://github.com/user-attachments/assets/bfd14d2c-19c4-4bf1-8914-5e8b4cc9fd11" />
+<img width="3514" height="1906" alt="image" src="https://github.com/user-attachments/assets/da368797-bfdd-4f1b-8a2c-dba67e186306" />
